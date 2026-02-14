@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "categories": "multitext",
+    "Subject": "multitext",
+    "date": "date",
+    "study hours": "number",
+    "Rating": "number",
+    "Colors": "multitext"
+  }
+}
