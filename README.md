@@ -18,15 +18,19 @@ categories:
 ## Screenshots
 
 ### Heatmap View
+![[Pasted image 20260214022239.png]]
 ![Heatmap with monthly stats and subject breakdown](.github/images/heatmap.png)
 
 ### Year at a Glance
+![[Pasted image 20260214022249.png]]
 ![12-month calendar grid view](.github/images/year-at-glance.png)
 
 ### GitHub Contribution Graph
+![[Pasted image 20260214022259.png]]
 ![GitHub-style contribution graph](.github/images/github-contribution.png)
 
 ### Monthly Strips
+![[Pasted image 20260214022309.png]]
 ![Compact monthly strip view](.github/images/monthly-strips.png)
 
 ## What Is This?
