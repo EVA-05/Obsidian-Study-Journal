@@ -15,6 +15,20 @@ categories:
 7. `Ctrl + p` in command palette select insert template, choose Template_v2
 8. Done
 
+## Screenshots
+
+### Heatmap View
+![Heatmap with monthly stats and subject breakdown](.github/images/heatmap.png)
+
+### Year at a Glance
+![12-month calendar grid view](.github/images/year-at-glance.png)
+
+### GitHub Contribution Graph
+![GitHub-style contribution graph](.github/images/github-contribution.png)
+
+### Monthly Strips
+![Compact monthly strip view](.github/images/monthly-strips.png)
+
 ## What Is This?
 
 A study-tracking dashboard for Obsidian that visualizes your daily study sessions as color-coded heatmaps. It reads your log entries and renders four different calendar views — all from a single template file, with **10 switchable color themes** controlled by one frontmatter property.
