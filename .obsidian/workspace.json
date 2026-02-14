@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Documentation 1.md",
-                "mode": "preview",
+                "file": "Documentation.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Documentation 1"
+              "title": "Documentation"
             }
           },
           {
@@ -190,12 +190,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 367.5,
-    "collapsed": true
+    "width": 367.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,15 +207,16 @@
       "bases:Create new base": false
     }
   },
-  "active": "ff7a9658553cafcf",
+  "active": "56a1f87b59d8441c",
   "lastOpenFiles": [
-    "Documentation 1.md",
+    "Template/Color variants.md",
     "Documentation.md",
+    "Template/Log Template.md",
+    "README.md",
+    "README.md.tmp.15436.1771030532443",
     "Template/Documentation.md.tmp.7396.1771030176883",
     "Template/Template_v2.md",
     "Template/Documentation.md.tmp.7396.1771029883189",
-    "Template/Color variants.md",
-    "Template/Log Template.md",
     "Template/Template_v2 Color Variants.md",
     "Approach 3.md",
     "Template/Template All.md",
@@ -237,14 +237,12 @@
     "Template/True Logs Template.md",
     "Template/Template_v2 Color variants.md.tmp.11029.1771028258522",
     "Template/Template_v2.md.tmp.7396.1771028231190",
-    "Template/Template All.md.tmp.7396.1771027874119",
     "Logs/Log 2026-12-31.md",
     "Logs/Log 2026-12-29.md",
     "Logs/Log 2026-12-28.md",
     "Logs/Log 2026-12-27.md",
     "Logs/Log 2026-12-26.md",
     "Logs/Log 2026-12-25.md",
-    "Logs/Log 2026-12-23.md",
-    "Logs/Log 2026-12-22.md"
+    "Logs/Log 2026-12-23.md"
   ]
 }

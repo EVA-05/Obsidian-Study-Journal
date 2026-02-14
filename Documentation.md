@@ -4,6 +4,17 @@ categories:
 ---
 # Study Dashboard — Documentation
 
+## Implement
+
+1.  [Dataview plugin](https://github.com/blacksmithgu/obsidian-dataview) installed and enabled
+2. add Templates folder to your vault
+3. Create Folder `Logs`
+4. Keep your study logs in Logs folder
+5. go to settings, Templates, under Template folder location select Templates (important part here is that you would use study logs template for journal entries and in order to create a dashboard you would insert Template_v2 to the note)
+6. create new note, call it ex. "Dashboard"
+7. `Ctrl + p` in command palette select insert template, choose Template_v2
+8. Done
+
 ## What Is This?
 
 A study-tracking dashboard for Obsidian that visualizes your daily study sessions as color-coded heatmaps. It reads your log entries and renders four different calendar views — all from a single template file, with **10 switchable color themes** controlled by one frontmatter property.
@@ -272,6 +283,8 @@ A dedicated **Obsidian plugin** could solve all of these:
 - **Single source of truth** — theme definitions stored once, not duplicated per block
 - **Custom theme builder** — let users create their own palettes through a color picker interface
 - **Settings panel** — configure intensity thresholds, folder paths, and property names without touching code
+
+- Instead of keeping logs in folders, They should be added through `Journal` property
 
 ### Potential Features
 
