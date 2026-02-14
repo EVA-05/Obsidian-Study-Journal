@@ -4,7 +4,7 @@ categories:
 ---
 # Study Dashboard — Documentation
 
-> **Created by Claude Opus 4.6**
+> **Created with the help of Claude Opus 4.6**
 
 ## Implement
 
