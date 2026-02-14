@@ -4,6 +4,8 @@ categories:
 ---
 # Study Dashboard — Documentation
 
+> **Created by Claude Opus 4.6**
+
 ## Implement
 
 1.  [Dataview plugin](https://github.com/blacksmithgu/obsidian-dataview) installed and enabled
